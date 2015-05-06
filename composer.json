@@ -1,0 +1,10 @@
+{
+    "name": "artatol/sliderpips",
+    "description": "A plugin to add little \"pips\" to the jQuery UI Slider widget",
+    "license": ["MIT"],
+    "authors": [
+	{
+        	"Simon Goellner <simey.me@gmail.com>"
+	}
+    ]
+}
